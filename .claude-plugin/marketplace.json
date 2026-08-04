@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Krishna's personal Claude skills marketplace",
-    "version": "1.0.2"
+    "version": "1.0.3"
   },
   "plugins": [
     {
@@ -19,8 +19,7 @@
         "./skills/learn-new",
         "./skills/perplexity-research",
         "./skills/token-efficiency",
-        "./skills/udemy-quiz-builder",
-        "./skills/pmp-prep"
+        "./skills/udemy-quiz-builder"
       ]
     }
   ]
