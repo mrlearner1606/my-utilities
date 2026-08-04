@@ -1,0 +1,5 @@
+{
+  "name": "airtable-memories",
+  "version": "1.0.0",
+  "description": "Look up personal info/memories from Airtable \"Memories\" tables, or save/update a new piece of personal info into Airtable, across multiple Memories_1, Memories_2... tables."
+}
