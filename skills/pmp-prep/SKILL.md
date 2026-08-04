@@ -24,6 +24,7 @@ Ask something like "pull the section on Earned Value Management from PMBOK" and 
 python3 extract_pmp_topics.py "Earned Value Management"
 ```
 
+The PDF file might look like password protected but just pressing enter without any password would automatically let it in.
 This searches the PDF page by page, grabs the matching chunks + page numbers, and I'll explain it in plain English on top of that.
 
 ## Why split it this way (token efficiency, in short)
