@@ -1,5 +1,0 @@
-{
-  "name": "udemy-quiz-builder",
-  "version": "1.0.0",
-  "description": "Build a self-contained, single-file HTML practice-exam app (Timed Mode + Review Mode, instant grading, explanations, and full review) from a saved Udemy practice-test results page."
-}
