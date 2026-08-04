@@ -1,6 +1,6 @@
 ---
 name: airtable-memories
-description: Use this skill whenever the user wants to (1) look up personal info/memories from their Airtable "Memories" tables, or (2) save/update a new piece of personal info into Airtable. The memories are spread across multiple tables (Memories_1, Memories_2, ... Memories_n) because each table has a row limit. Trigger this skill on phrases like "check airtable for...", "did I mention...", "remember when I said...", "update airtable with...", "note this down", "save this info".
+description: use this skill whenever the user wants to (1) look up personal info/memories from their Airtable "Memories" tables, or (2) save/update a new piece of personal info into Airtable. The memories are spread across multiple tables (Memories_1, Memories_2, ... Memories_n) because each table has a row limit. Trigger this skill on phrases like "check airtable for...", "did I mention...", "remember when I said...", "update airtable with...", "note this down", "save this info".
 ---
 
 # Airtable Memories Skill
