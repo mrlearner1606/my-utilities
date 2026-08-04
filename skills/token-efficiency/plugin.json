@@ -1,5 +1,0 @@
-{
-  "name": "token-efficiency",
-  "version": "1.5.0",
-  "description": "Token optimization best practices for cost-effective Claude Code usage, including efficient file reading, command execution, output handling, and model selection guidance."
-}
