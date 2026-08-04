@@ -1,0 +1,49 @@
+{
+  "name": "krishna-skills-marketplace",
+  "owner": {
+    "name": "Krishna"
+  },
+  "metadata": {
+    "description": "Krishna's personal Claude skills marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "airtable-memories",
+      "source": "./skills/airtable-memories",
+      "description": "Look up personal info/memories from Airtable \"Memories\" tables, or save/update a new piece of personal info into Airtable, across multiple Memories_1, Memories_2... tables.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "humanizer",
+      "source": "./skills/humanizer",
+      "description": "Remove signs of AI-generated writing from text so it sounds more natural and human-written, based on Wikipedia's \"Signs of AI writing\" guide.",
+      "version": "2.9.1",
+      "license": "MIT"
+    },
+    {
+      "name": "learn-new",
+      "source": "./skills/learn-new",
+      "description": "Learning mode for intellectual understanding - teaching, explaining, ELI5, quizzes, flashcards, and learning-path guidance rather than task execution.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "perplexity-research",
+      "source": "./skills/perplexity-research",
+      "description": "Produce Perplexity-style research answers with crisp markdown, bold key numbers, bullet points, calculation tables, and inline source tags for research, financial-planning, comparison, and FIRE/retirement questions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "token-efficiency",
+      "source": "./skills/token-efficiency",
+      "description": "Token optimization best practices for cost-effective Claude Code usage, including efficient file reading, command execution, output handling, and model selection guidance.",
+      "version": "1.5.0"
+    },
+    {
+      "name": "udemy-quiz-builder",
+      "source": "./skills/udemy-quiz-builder",
+      "description": "Build a self-contained, single-file HTML practice-exam app (Timed Mode + Review Mode, instant grading, explanations, and full review) from a saved Udemy practice-test results page.",
+      "version": "1.0.0"
+    }
+  ]
+}
