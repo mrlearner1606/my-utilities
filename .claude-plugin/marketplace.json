@@ -19,7 +19,8 @@
         "./skills/learn-new",
         "./skills/perplexity-research",
         "./skills/token-efficiency",
-        "./skills/udemy-quiz-builder"
+        "./skills/udemy-quiz-builder",
+        "./skills/drawio-skill"
       ]
     }
   ]
